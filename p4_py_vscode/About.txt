@@ -1,0 +1,14 @@
+About this project
+********************
+
+Created by: Cristina
+Started: 10/05/2025
+Ended: 10/05/2025
+
+Name: app.py, appcsv.py
+Location: 2025_Git_Projects/p1_py_vscode	
+Description: ETL with Python within the Visual studio code environment
+
+Tools: Python, Visual Studio Code, Windows Powershell to run commands
+Data: data.gov (free data sets to download without an account)
+
