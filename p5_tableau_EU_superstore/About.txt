@@ -1,0 +1,21 @@
+About this project
+********************
+
+Created by: Cristina
+Started: 10/09/2025
+Ended: 10/09/2025
+
+Name: 		Sample Superstore Dashboard
+Location: 	https://public.tableau.com/app/profile/c.sheridan/vizzes
+Description: 	Tableau dashboard created with Tableau public and published on Tableau Public
+
+Tools: Tableau Public
+Data: csv sample-superstore from Tableau res.csv downloaded from Tableau 
+
+Inspiration: Steve Adams Analytics Tableau User Group - June 30, 2022 
+	https://www.youtube.com/watch?v=wbvn_wbrBps&t=365s
+	Simon Sez IT https://www.youtube.com/watch?v=2923aoIUSvo
+Note: for this one, load into pandas, clean, take it to tableau, then calculated field, parameters, lods, 
+	table calcs, interactive, toolips with charts in them, maybe containers
+Note: For a future project, normalize the file (split it into three files, orders, customers, and products)
+start with that, load it into pandas, clean it, take it to tableau and use relationships to denormalize it, and then 
