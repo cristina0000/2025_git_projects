@@ -1,2 +1,2 @@
 # 2025_git_projects
-Data Analytics, ETL, and Data Science Projects.
+I will add to this repository Data Analytics, ETL, and Data Science Projects.
