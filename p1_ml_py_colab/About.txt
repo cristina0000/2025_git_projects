@@ -1,0 +1,16 @@
+About this project
+********************
+
+Created by: Cristina
+Started: 10/05/2025
+Ended: 10/05/2025
+
+Name: MLPyColab1.ipynb
+Location: colab.research.google.com	https://colab.research.google.com/drive/1XUEGZBeaXMjYfbwTN1cNgsiKaxEo3foP
+Description: Machine Learning with Python within the Colab environment
+
+Tools: Python, Colab colab.research.google.com
+Data: github.com/dataprofessor	
+	raw data: 	'https://raw.githubusercontent.com/dataprofessor/data/refs/heads/master/delaney_solubility_with_descriptors.csv'
+
+Inspiration: Data Professor https://www.youtube.com/watch?v=29ZQ3TDGgRQ
