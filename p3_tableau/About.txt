@@ -1,0 +1,15 @@
+About this project
+********************
+
+Created by: Cristina
+Started: 10/08/2025
+Ended: 10/08/2025
+
+Name: 		Adidas USA Sales Dashboard
+Location: 	https://public.tableau.com/app/profile/c.sheridan/vizzes
+Description: 	Tableau dashboard created with Tableau public and published on Tableau Public
+
+Tools: Tableau Public
+Data: csv downloaded from kaggle
+
+Inspiration: Andy Kriebel https://www.youtube.com/watch?v=3w4s_6r3B6A
