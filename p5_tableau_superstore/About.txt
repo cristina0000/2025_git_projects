@@ -3,20 +3,37 @@ About this project
 
 Created by: Cristina
 Started: 10/09/2025
-Ended: 10/09/2025
+Ended: 10/xx/2025
 
 Name: 		Sample Superstore Dashboard
 Location: 	https://public.tableau.com/app/profile/c.sheridan/vizzes
 Description: 	Tableau dashboard created with Tableau public and published on Tableau Public
 
-Tools: Tableau Public
+Tools: GitHub (input file stored on github), Python, db, SQL, Colab, Tableau Public
 Data: csv sample-superstore from Tableau res.csv downloaded from Tableau website
-Link in GitHub of the the raw file: https://raw.githubusercontent.com/cristina0000/2025_git_projects/refs/heads/main/p5_tableau_EU_superstore/data/LA_Retail_Sales.csv
+Link in GitHub of the input raw file: 
+	https://raw.githubusercontent.com/cristina0000/2025_git_projects/refs/heads/main/p5_tableau_superstore/data/sample_superstore.csv
 
-Inspiration: Steve Adams Analytics Tableau User Group - June 30, 2022 
+
+Inspiration for Tableau skills: Steve Adams Analytics Tableau User Group - June 30, 2022 
 	https://www.youtube.com/watch?v=wbvn_wbrBps&t=365s
 	Simon Sez IT https://www.youtube.com/watch?v=2923aoIUSvo
-Note: for this one, load into pandas, clean, take it to tableau, then calculated field, parameters, lods, 
+	
+	For later projects, these videos were good:
+	https://www.youtube.com/watch?v=pJBqec3cJ44
+	https://www.youtube.com/watch?v=zcUEQS2O_Yo
+	https://www.youtube.com/watch?v=3bVc_-m_fMg
+	https://www.ncei.noaa.gov/swdiws
+	https://github.com/us-bea/beaapi/blob/main/README.md
+	https://www.youtube.com/watch?v=3uFHB1poHhg add arrows to tables
+	https://www.youtube.com/watch?v=p7cn1n1kx3I
+	https://www.youtube.com/watch?v=hzc7NT7n5AA
+	https://stackoverflow.com/questions/37216486/using-python-to-build-an-sqlite-database-from-multiple-csv-files?rq=3
+	https://community.alteryx.com/t5/Alteryx-Success-Stories/Workday-Data-Migration-How-we-saved-over-2000-hours-of-manual/ta-p/515688
+	https://www.youtube.com/watch?v=rHasJpwfjZ4
+
+Note: for this project, load into pandas, explore and clean, put it in a SQLite database, and do more cleaning with SQL, put it back into a cleaned table, then to dataframe, then output, then take it to tableau public, then calculated field, parameters, lods, 
 	table calcs, interactive, toolips with charts in them, maybe containers
+
 Note: For a future project, normalize the file (split it into three files, orders, customers, and products)
-start with that, load it into pandas, clean it, take it to tableau and use relationships to denormalize it, and then 
+start with that, load it into pandas (or normalize with SQL after loading), clean it, take it to tableau and use relationships to denormalize it, and then create sheets, dashboards, etc
