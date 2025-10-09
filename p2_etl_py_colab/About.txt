@@ -1,0 +1,14 @@
+About this project
+********************
+
+Created by: Cristina
+Started: 10/05/2025
+Ended: 
+
+Name: 2025_ETLPyColab1.ipynb
+Location: colab.research.google.com	
+Description: ETL with Python within the Colab environment
+
+Tools: Python, Colab
+Data: can be downloaded from https://www.youtube.com/watch?v=3H-uZK8--4g look for link below the video
+Inspiration: Maven Analytics Python for ETL| Live instruction https://www.youtube.com/watch?v=3H-uZK8--4g
