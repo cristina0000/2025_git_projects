@@ -6,10 +6,10 @@ Started: 10/13/2025
 
 
 Name: 		Flight Status Dashboard - Project 2025-N10
-Location: 	pdf export on github (the "flights.csv" file and the PowerBI file "Flight Status MCS.pbix" 
-			exceed the file limit on GitHub free and are on my local machine)
+Location: 	PowerBI file "Flight Status MCS.pbix" and pdf export on github (the "flights.csv" file exceeds the file limit on GitHub free and is stored on my local machine)
 
-Description: 	PowerBI dashboard created with PowerBI Desktop app
+Description: 	PowerBI dashboard created with PowerBI Desktop app; the csv files were transformed and loaded into PowerBI, 
+	the model (star schema with the flights as the fact table and the other files as the dim tables) was created, then calculations, and visualizations were done to provide insights.
 
 Tools: PowerBI Desktop
 
