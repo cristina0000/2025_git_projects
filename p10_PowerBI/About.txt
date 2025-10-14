@@ -1,0 +1,14 @@
+About this project
+********************
+
+Created by: Cristina
+Started: 10/13/2025
+
+
+Name: 		Flight Status Dashboard - Project 2025-N10
+Location: 	github
+Description: 	PowerBI dashboard created with PowerBI Desktop
+
+Tools: PowerBI Desktop
+Data: csv downloaded from AWS maven-datasets.s3.amazonaws.com
+Inspiration: Maven Analytics https://www.youtube.com/watch?v=aLV4Qe60VK4&t=1009s
